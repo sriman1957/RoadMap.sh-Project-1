@@ -84,7 +84,7 @@ Remaining chances: 9
 
 ## Project URL
 
-https://github.com/sriman1957/PRACTICE-PROJECTS/tree/main/golang/RoadMap.sh_Project_1
+(https://github.com/sriman1957/RoadMap.sh-Project-1/tree/main)
 
 ---
 
